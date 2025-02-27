@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Yadico.Business")]
+[assembly: AssemblyTitle("Yadico.DataLayer")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Yadico.Business")]
+[assembly: AssemblyProduct("Yadico.DataLayer")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("76f8efca-dfcd-440f-b7ea-74bd1131a9ef")]
+[assembly: Guid("a3ab006f-4770-49e4-a207-70c75c4ad225")]
 
 // Version information for an assembly consists of the following four values:
 //

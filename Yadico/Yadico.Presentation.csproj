@@ -76,5 +76,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Yadico_BusinessLayer\Yadico_BusinessLayer.csproj">
+      <Project>{a3c25e6f-a816-4231-8f22-ae0730f6f7b2}</Project>
+      <Name>Yadico_BusinessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
